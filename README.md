@@ -12,12 +12,12 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 
 [Olhe meu portfólio.](https://braydoncoyer.dev/)
 
-## 📝 Latest Blog Posts
+## 📝 Últimos posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
+- [Aqui](https://404)
 - 
 <!-- BLOG-POST-LIST:END -->
 
@@ -27,7 +27,7 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/Vini4l/dataAnalysis">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -51,7 +51,7 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
