@@ -38,12 +38,12 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Vini4l">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini4l&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Vini4l">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Vini4l&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Vinícius's GitHub Stats" />
 </a>
 
 <br>
@@ -108,32 +108,7 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 
 <br>
 
-## 📣 How about an Office quote before you go?
-
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> Quote 1
 >
-> <p>- Creed Bratton</p>
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
 
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-braydoncoyer/README.md at main · braydoncoyer/braydoncoyer 
