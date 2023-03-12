@@ -28,7 +28,7 @@ Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programaç
 <br>
 
 <a href="https://github.com/Vini4l/dataAnalysis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Vini4l&repo=dataAnalysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
