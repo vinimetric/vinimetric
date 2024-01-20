@@ -8,20 +8,10 @@
 -->
 Olá 👋
 
-Sou Vinícius, estudante de Física pela UFRGS com largo interrese em programação.
+Sou Vinícius, estudante de Física pela UFRGS.
 
 [Olhe meu portfólio.](https://v4l/)
 
-## 📝 Últimos posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Teste 1](https://404)
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ## 📌 Repositórios Fixados
 
